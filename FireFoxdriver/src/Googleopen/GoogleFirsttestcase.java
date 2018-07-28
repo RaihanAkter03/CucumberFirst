@@ -13,6 +13,7 @@ public class GoogleFirsttestcase {
 			//driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 			//driver.manage().timeouts().pageLoadTimeout(50, TimeUnit.SECONDS);
 			driver.get("https://www.mail.com");
+			System.out.println("Hello Mail.com");;
 			//driver.manage().window().maximize();
 			//Thread.sleep(5000);
 			
